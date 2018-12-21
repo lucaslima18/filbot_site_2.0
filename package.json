@@ -1,0 +1,26 @@
+{
+  "name": "filbot_site_2.0",
+  "version": "1.0.0",
+  "description": "um bot que usa IA para responder sobre filmes e séries",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaslima18/filbot_site_2.0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaslima18/filbot_site_2.0/issues"
+  },
+  "homepage": "https://github.com/lucaslima18/filbot_site_2.0#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "debug": "^4.1.0",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "path": "^0.12.7"
+  }
+}

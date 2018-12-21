@@ -1,0 +1,30 @@
+#home{
+	background-image: url("../media/Cinema_fundo.jpg");
+	background-repeat: no-repeat;
+
+
+}
+
+.img-header{
+	color: #FFFFFF;
+}
+
+.navbar-inner {
+    background-color:transparent;
+
+}
+
+.w3-wide{
+	background-color: red;
+}
+.right {
+    position: absolute;
+    right: 0px;
+    width: 5px;
+    color: #FFFFFF;
+    padding: 0px;
+}
+
+.w3-tag{
+	background-color: red;
+}
